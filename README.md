@@ -19,13 +19,54 @@
 ## 📝Introduction
 
 <p align="justify">
-ngITi is a Java and Database Management System (DBMS) project designed particularly for keeping track of dental appointments and records. This system's main goal is to enrich user experience by assuring simple appointment scheduling and efficient record-keeping. ngITi arises as a comprehensive dental records and appointment system in response to the requirement for a refined solution.
+ngITi is a project developed in Java and Database Management System (DBMS), specifically created for the purpose of managing and monitoring dental appointments and records. This system's main goal is to enrich user experience by assuring simple appointment scheduling and efficient record-keeping. ngITi arises as a comprehensive dental records and appointment system in response to the requirement for a refined solution.
 </p>
 
 #
 
 ## 🪶Features 
+## 👨‍⚕️Admin Portal Features:
 
+### Overview Dashboard:
+  - Access to the total number of patients for the current month
+  - Total patients recorded historically
+  - Today's scheduled appointments
+  - Total appointments all time
+  - Display of current bookings
+
+### Patient Management:
+  - Add, update, and delete patient details
+
+### Appointment Management:
+  - Add, update, and delete appointment details
+
+### View Doctors:
+  - Access information about available doctors, including specialties and profiles.
+
+### View Services Offered:
+  - Explore a list of services provided, including details about each service.
+
+### View Patient History:
+  - Access personal details, including medical history and appointment records, to have a holistic view of the patient's health journey.
+
+### Payments:
+  - Add, update, and delete payment records
+  - Income overview for financial tracking
+
+## 👤User Portal Features:
+
+### View Doctors:
+  - Access information about available doctors, including specialties and profiles.
+
+### View Services Offered:
+  - Explore a list of services provided, including details about each service.
+
+### Appointment Booking:
+  - Book appointments with preferred doctors and services
+
+### View Appointments:
+  - Access a list of scheduled appointments
+  - Cancel appointments when necessary
 #
 
 ## 💻System Functionalities
