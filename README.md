@@ -25,7 +25,10 @@ ngITi is a project developed in Java and Database Management System (DBMS), spec
 #
 
 ## 🪶Features 
-## 👨‍⚕️Admin Portal Features:
+
+<p>
+  <strong>👨‍⚕️Admin Portal Features:</strong>
+</p>
 
 ### Overview Dashboard:
   - Access to the total number of patients for the current month
@@ -53,7 +56,9 @@ ngITi is a project developed in Java and Database Management System (DBMS), spec
   - Add, update, and delete payment records
   - Income overview for financial tracking
 
-## 👤User Portal Features:
+<p>
+  <strong>👤User Portal Features:</strong>
+</p>
 
 ### View Doctors:
   - Access information about available doctors, including specialties and profiles.
