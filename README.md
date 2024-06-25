@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180167191476322485/Untitled_design_41.png?ex=657c6f58&is=6569fa58&hm=4faffcdadf9afa1f8438292b753cb31bb89c09595634b547c1114e8ff74478fd&" width="550" height="350" />
+  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180167191476322485/Untitled_design_41.png?ex=667b8998&is=667a3818&hm=2c6b9149d40cf22b2929b2316b1cd0f30a1ee7e9ffffd03aaa23dab6705a604a&" width="550" height="350" />
 </p>
   
 <p align="center">
@@ -264,7 +264,7 @@ Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships fo
 ## 👨‍💻Meet the Team
 
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196085357084812/396625624_1394491068143826_476624505372656000_n.jpg?ex=657c8a41&is=656a1541&hm=dafce280562e3aa954b22c00dc31c75af10d8ec6ba80432e6bc748bde8d8f737&" width="250" height="250" />
+<img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196085357084812/396625624_1394491068143826_476624505372656000_n.jpg?ex=667ba481&is=667a5301&hm=b98e9ba5dd0fee2f95c18aeee25a5e9906e817a11b8715b12c088a2ac75215f8&" width="250" height="250" />
 </p>
 <p align="center">
   Calusor, John Paul D.
@@ -274,7 +274,7 @@ Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships fo
 </p>
 
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180198301224669215/Untitled_design_37_1.png?ex=657c8c52&is=656a1752&hm=32a7769e04c0c4136dbff8cede9fe4d7b743e9400cc6786ea3d0833a0a92b217&" width="250" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196085797494865/Untitled_design_37_1.png?ex=667ba481&is=667a5301&hm=cdec1c1ed8c0298036f2a5d26b39d0bd4a935eb396f2f7a722702d98cb87dd20&" width="250" height="250" />
 </p>
 <p align="center">
    De Sagun, Carl Bradford M. 
@@ -284,7 +284,7 @@ Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships fo
 </p>
 
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086158209024/387628748_6639444579484254_4440240223546255276_n.jpg?ex=657c8a41&is=656a1541&hm=a242c780e142a7279287b7f90c79562ed6fc39a11b126975abd62fa30ce8b85a&" width="250" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086158209024/387628748_6639444579484254_4440240223546255276_n.jpg?ex=667ba481&is=667a5301&hm=c08f4f0f9a54a3edd53a3325098ea5c50b031acc5293aea1da473575e1c9a55f&" width="250" height="250" />
 </p>
 <p align="center">
    Lucero, Gio Kervin P. 
@@ -294,7 +294,7 @@ Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships fo
 </p>
 
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180200606946832445/396787136_658584359715358_8559433219625474211_n.jpg?ex=657c8e77&is=656a1977&hm=fd725c307858ce56f20933e2051dbc25d3cd0090537ce8dc6724ca25181000bb&" width="250" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086472769636/396787136_658584359715358_8559433219625474211_n.jpg?ex=667ba481&is=667a5301&hm=0a33c85b5678fa48f2c4bf8921edb8dad83886d996ec7b12bbf74427717dc47f&" width="250" height="250" />
 </p>
 <p align="center">
    Pasia, John Cedric M. 
@@ -304,7 +304,7 @@ Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships fo
 </p>
 
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086741213216/396654872_3418360145142641_3850126467493978964_n.jpg?ex=657c8a42&is=656a1542&hm=0dda443018a599130be175aeaa837cbec52fde89ef51bcb59514802c727211e4&" width="250" height="250" />
+  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086741213216/396654872_3418360145142641_3850126467493978964_n.jpg?ex=667ba482&is=667a5302&hm=29f7e8ad93f6b76b94a46dc8a781a4a0bb05e2692a63da8aa7688f8d2c0f57b7&" width="250" height="250" />
 </p>
 <p align="center">
    Zoleta, Stephen M. 
